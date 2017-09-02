@@ -4,7 +4,9 @@ Welcome to the TechMonster (name pending) project!
 
 ## What is this project?
 
-This is planned to be a single-paged application that will allow users to view videos on Youtube that are tutorials and/or guides for certain characters in their favorite Fighting Video Game.
+This is planned to be a single-paged application that will allow users to view videos on Youtube from the most prominent Fighting Game Community content creators that include online replays, tournament replays, and other noteworthy videos. Also include the ability to sort videos by certain categorial standards.
+
+Future versions of the product will be able to webcrawl YouTube for tutorials and guides (start small with MVPs and then work our way up to here).
 
 ### How?
 
