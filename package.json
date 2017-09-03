@@ -1,0 +1,10 @@
+{
+  "name": "TechMonster",
+  "private": true,
+  "dependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ranellereyes/TechMonster.git",
+  "author": "Ranelle <ranelle.reyes@gmail.com>",
+  "license": "MIT"
+}
